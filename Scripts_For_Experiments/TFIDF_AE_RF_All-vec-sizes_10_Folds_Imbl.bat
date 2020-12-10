@@ -1,0 +1,10 @@
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_20_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec20_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_30_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec30_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_40_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec40_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_50_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec50_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_100_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec100_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_150_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec150_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_200_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec200_Imb
+ava -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_400_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec400_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_500_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec500_Imb
+java -jar ./ZM_Vul_Prediction2.jar RF 10 FALSE Final_Datasets\TFIDF\AE_ALL-vec\AE_Vec_Size_1000_TFIDF.arff RF_AE_10Folds_AE_TFIDF_Vec1000_Imb
